@@ -58,8 +58,8 @@ public class PersonDaoImplTest {
 
     private Person createPerson() {
         Person person = new Person();
-        person.setFirstName("Xiao");
-        person.setLastName("Sun");
+        person.setFirstName("Yu");
+        person.setLastName("Zhang");
         return person;
     }
 }
