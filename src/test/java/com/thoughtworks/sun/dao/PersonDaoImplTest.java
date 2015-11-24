@@ -11,9 +11,7 @@ import javax.persistence.EntityTransaction;
 import static org.easymock.EasyMock.expect;
 import static org.easymock.EasyMock.expectLastCall;
 
-/**
- * Created by xiaosun on 11/24/15.
- */
+
 public class PersonDaoImplTest {
 
     private EasyMockSupport easyMockSupport;
